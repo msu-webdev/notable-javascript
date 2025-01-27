@@ -1,2 +1,32 @@
-# notable-javascript
-A collection of notable javascript libraries for web development.
+# Notable JavaScript Libraries
+An incomplete collection of interesting javascript libraries for web development.
+
+- Tesseract.js for OCR: https://github.com/naptha/tesseract.js
+- g9.js: https://omrelli.ug/g9/gallery/
+- Github Globe: https://github.com/janarosmonaliev/github-globe
+- OpenCV: https://opencv.org/releases/
+- Howler: https://howlerjs.com
+- Scroll Reveal: https://scrollrevealjs.org
+- Quill RTE: https://quilljs.com
+- ml5.js (Machine Learning): https://ml5js.org
+- three.js: https://threejs.org
+- Hotkeys: https://github.com/jaywcjlove/hotkeys-js
+- Leaflet: https://leafletjs.com
+- A-FRAME: https://aframe.io
+- p5.js: https://p5js.org
+- Floating UI: https://floating-ui.com
+- Paper.js: http://paperjs.org
+- Charts.js: https://www.chartjs.org
+- D3: https://d3js.org
+- PDF.js: https://github.com/mozilla/pdf.js
+- Feather icons: https://feathericons.com
+- Matter.js: https://brm.io/matter-js/
+- Tensorflow.js: https://www.tensorflow.org
+- Excalidraw: https://github.com/excalidraw/excalidraw
+- Transformers.js: https://github.com/huggingface/transformers.js
+- Docmost: https://docmost.com
+- Fabric: https://fabricjs.com
+- TLDraw: https://tldraw.dev
+- Color pickers:
+	- https://coloris.js.org
+	- https://iro.js.org
