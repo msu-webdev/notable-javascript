@@ -6,24 +6,28 @@ An incomplete collection of interesting javascript libraries for web development
 - Github Globe: https://github.com/janarosmonaliev/github-globe
 - OpenCV: https://opencv.org/releases/
 - Howler: https://howlerjs.com
+- WaveSurfer: https://wavesurfer.xyz
 - Scroll Reveal: https://scrollrevealjs.org
 - Quill RTE: https://quilljs.com
 - ml5.js (Machine Learning): https://ml5js.org
 - three.js: https://threejs.org
 - Hotkeys: https://github.com/jaywcjlove/hotkeys-js
 - Leaflet: https://leafletjs.com
+- Mermaid: https://mermaid.js.org
 - A-FRAME: https://aframe.io
 - p5.js: https://p5js.org
 - Floating UI: https://floating-ui.com
 - Paper.js: http://paperjs.org
 - Charts.js: https://www.chartjs.org
 - D3: https://d3js.org
+- AG Grid: https://www.ag-grid.com
 - PDF.js: https://github.com/mozilla/pdf.js
 - Feather icons: https://feathericons.com
 - Matter.js: https://brm.io/matter-js/
 - Tensorflow.js: https://www.tensorflow.org
 - Excalidraw: https://github.com/excalidraw/excalidraw
 - Transformers.js: https://github.com/huggingface/transformers.js
+- Sortable: https://sortablejs.github.io/Sortable/
 - Docmost: https://docmost.com
 - Fabric: https://fabricjs.com
 - TLDraw: https://tldraw.dev
